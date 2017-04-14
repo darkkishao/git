@@ -1,0 +1,93 @@
+ <div class="container">
+        <div id="top"></div>
+        <div class="bgimg">
+        	<div id="xiangqing" style="width: 100px;height: 20px;border: 1px solid red;margin-left:45%;">
+        		
+        	</div>
+        </div>
+        <!--充值金额-->
+        <div class="chongzhiImg"></div>
+        <div class="choose">
+            <label for="choose1">
+                <div>
+                    <div class="tihuan">
+                        <img src="images/xuanze.jpg" alt="" class="chooseimg">
+                        <img src="images/gou.png" class="gou"/>
+                    </div>
+
+                </div>
+            </label>
+            <label for="choose2">
+                <div>
+                    <div class="tihuan" id="tihuan1">
+                        <img src="images/xuanze.jpg" alt="" class="chooseimg">
+                        <img src="images/gou.png" class="gou"/>
+                    </div>
+                </div>
+            </label>
+            <label for="choose3">
+                <div>
+                    <div class="tihuan" id="tihuan2">
+                        <img src="images/xuanze.jpg" alt="" class="chooseimg">
+                        <img src="images/gou.png" class="gou"/>
+                    </div>
+                </div>
+            </label>
+            <label for="choose4">
+                <div>
+                    <div class="tihuan" id="tihuan3" >
+                        <img src="images/xuanze.jpg" alt="" class="chooseimg">
+                        <img src="images/gou.png" class="gou"   />
+                    </div>
+                </div>
+            </label>
+        </div>
+        <!--充值金额-->
+        <!--支付方式-->
+        <div class="pay">
+            <ul>
+                <label for="paychoose1">
+                    <li class="paychoose">
+                        <img src="images/weixin.jpg" alt="">
+                        <img src="images/gou.png" class="payimg"/>
+                    </li>
+                </label>
+                <label for="paychoose2">
+                    <li class="paychoose">
+                        <img src="images/yinlian.jpg" alt=""  id="payimg2">
+                        <img src="images/gou.png" class="payimg"/>
+                    </li>
+                </label>
+                <label for="paychoose3">
+                    <li class="paychoose">
+                        <img src="images/kuaijie.jpg" alt=""  id="payimg3">
+                        <img src="images/gou.png" class="payimg" />
+                    </li>
+                </label>
+            </ul>
+        </div>
+        <div class="sure" id="subbtn">点击确认支付</div>
+        <!--支付方式-->
+
+        <!--提交成功后的弹框-->
+        <div class="Bombbox">
+            <img src="images/tishi_03.jpg" alt="">
+            <div class="close"></div>
+            <a href="#" class="suc">查看订单</a>
+            <a href="#" class="err">查看支付帮助</a>
+        </div>
+        <!--提交成功后的弹框-->
+
+        <!--------右侧导航-------->
+        <div id="znq-daohang">
+            <div class="lianjie">
+                <a href="#"></a>
+                <a href="#"></a>
+                <a href="#"></a>
+                <a href="#"></a>
+                <a href="#"></a>
+                <a href="#"></a>
+                <a href="#top" ></a>
+            </div>
+        </div>
+    </div>
